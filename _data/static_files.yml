@@ -812,32 +812,6 @@
   - fail
   - gif
   - wheelbarrel
-- title: sk8r-girl.gif
-  category: badass
-  path: badass/sk8r-girl.gif
-  modified_time: 1619206711
-  tags:
-  - badass
-  - gif
-  - girl
-  - sk8r
-- title: skate-rope.gif
-  category: badass
-  path: badass/skate-rope.gif
-  modified_time: 1619206711
-  tags:
-  - badass
-  - gif
-  - rope
-  - skate
-- title: split.gif
-  category: badass
-  path: badass/split.gif
-  modified_time: 1619206711
-  tags:
-  - badass
-  - gif
-  - split
 - title: gwen-stefanie-touched.gif
   category: touched
   path: touched/gwen-stefanie-touched.gif
@@ -2212,16 +2186,6 @@
   - there
   - what
   - you
-- title: holding-things-together.gif
-  category: spiderman
-  path: spiderman/holding-things-together.gif
-  modified_time: 1619206717
-  tags:
-  - gif
-  - holding
-  - spiderman
-  - things
-  - together
 - title: major-tom.gif
   category: testing
   path: testing/major-tom.gif
@@ -2714,16 +2678,6 @@
   - longhorns
   - shocked
   - upset
-- title: hello-mrs-doubtfire.gif
-  category: hi
-  path: hi/hello-mrs-doubtfire.gif
-  modified_time: 1619206715
-  tags:
-  - doubtfire
-  - gif
-  - hello
-  - hi
-  - mrs
 - title: paul-rudd-what.gif
   category: what
   path: what/paul-rudd-what.gif
@@ -3035,14 +2989,6 @@
   - gif
   - hurry
   - snap
-- title: homer-hurry.gif
-  category: hurry
-  path: hurry/homer-hurry.gif
-  modified_time: 1619206715
-  tags:
-  - gif
-  - homer
-  - hurry
 - title: judge-judy-hurry.gif
   category: hurry
   path: hurry/judge-judy-hurry.gif
@@ -3077,6 +3023,15 @@
   - forest
   - gif
   - hello
+- title: hello-mrs-doubtfire.gif
+  category: hello
+  path: hello/hello-mrs-doubtfire.gif
+  modified_time: 1619206715
+  tags:
+  - doubtfire
+  - gif
+  - hello
+  - mrs
 - title: obi-wan-hello.gif
   category: hello
   path: hello/obi-wan-hello.gif
@@ -3236,6 +3191,15 @@
   - is
   - simpsons
   - stupid
+- title: homer-hurry.gif
+  category: simpsons
+  path: simpsons/homer-hurry.gif
+  modified_time: 1619206715
+  tags:
+  - gif
+  - homer
+  - hurry
+  - simpsons
 - title: homer-neeeerrrrdd.gif
   category: simpsons
   path: simpsons/homer-neeeerrrrdd.gif
@@ -3321,113 +3285,6 @@
   - gif
   - puff
   - tucker
-- title: 1-50-Cent-Laugh-Off.gif
-  category: favs
-  path: favs/1-50-Cent-Laugh-Off.gif
-  modified_time: 1619206714
-  tags:
-  - '1'
-  - '50'
-  - Cent
-  - Laugh
-  - 'Off'
-  - favs
-  - gif
-- title: 42-Snoop-Bounce.gif
-  category: favs
-  path: favs/42-Snoop-Bounce.gif
-  modified_time: 1619206714
-  tags:
-  - '42'
-  - Bounce
-  - Snoop
-  - favs
-  - gif
-- title: bboy-bear.gif
-  category: favs
-  path: favs/bboy-bear.gif
-  modified_time: 1619206714
-  tags:
-  - bboy
-  - bear
-  - favs
-  - gif
-- title: cat-fail.gif
-  category: favs
-  path: favs/cat-fail.gif
-  modified_time: 1619206714
-  tags:
-  - cat
-  - fail
-  - favs
-  - gif
-- title: disgust.gif
-  category: favs
-  path: favs/disgust.gif
-  modified_time: 1619206714
-  tags:
-  - disgust
-  - favs
-  - gif
-- title: flying-preacher.gif
-  category: favs
-  path: favs/flying-preacher.gif
-  modified_time: 1619206714
-  tags:
-  - favs
-  - flying
-  - gif
-  - preacher
-- title: horrified-hippie.gif
-  category: favs
-  path: favs/horrified-hippie.gif
-  modified_time: 1619206714
-  tags:
-  - favs
-  - gif
-  - hippie
-  - horrified
-- title: jim-carrey-gag.gif
-  category: favs
-  path: favs/jim-carrey-gag.gif
-  modified_time: 1619206714
-  tags:
-  - carrey
-  - favs
-  - gag
-  - gif
-  - jim
-- title: redman-method-mad.gif
-  category: favs
-  path: favs/redman-method-mad.gif
-  modified_time: 1619206714
-  tags:
-  - favs
-  - gif
-  - mad
-  - method
-  - redman
-- title: snoop-turning-the-wheel-big.gif
-  category: favs
-  path: favs/snoop-turning-the-wheel-big.gif
-  modified_time: 1619206714
-  tags:
-  - big
-  - favs
-  - gif
-  - snoop
-  - the
-  - turning
-  - wheel
-- title: thumbs-up.gif
-  category: favs
-  path: favs/thumbs-up.gif
-  modified_time: 1619206714
-  tags:
-  - favs
-  - gif
-  - thumbs
-  - up
 - title: huge-dive.gif
   category: nailed-it
   path: nailed-it/huge-dive.gif
